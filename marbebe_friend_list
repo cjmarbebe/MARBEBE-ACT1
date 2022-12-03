@@ -1,1 +1,36 @@
+[{
+    "firstName": "CJ",
+    "lastName": "Marbebe",
+    "age": "22",
+    "Address": "California, USA",
+    "contactNumber": "NA",
+    "friendList":
+},
+    {
+        "name": "ELIAH SOBERANO",
+        "age": "21",
+        "address": "Iloilo, Philippines",
+        "likes": "Music",
+        "dislikes": "Bugs",
+        "feeling": "Sleepy"
+    },
 
+    {
+        "name": "CHRISTIAN CHAVEZ",
+        "age": "21",
+        "address": "Iloilo, Philippines",
+        "likes": "Music",
+        "dislikes": "Cyril",
+        "feeling": "Gorgeous"
+    },
+
+    {
+        "name": "CYRIL QUINOVIVA",
+        "age": "22",
+        "address": "Iloilo, Philippines",
+        "likes": "Instrument",
+        "dislikes": "Girls",
+        "feeling": "Gwapo"
+    }
+}
+]
